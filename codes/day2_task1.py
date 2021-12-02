@@ -23,6 +23,7 @@ for line in lines:
     elif command == "up":
         depth -= int_step
     else:
+	# This code should never get executed if the input is valid
         print("Unexpected input")
 final_ans = position * depth
 print(f"The multiplication of depth which is {depth} and position which is {position} is {final_ans}. ")
