@@ -11,6 +11,7 @@ file1 = open('../input_files/day1_input1.txt', 'r')
 
 ans = 0
 nums = list(map(int, file1.readlines()))
+print(nums)
 ln = len(nums)
 for i in range(ln-3):
     num1 = nums[i] + nums[i+1] + nums[i+2]
