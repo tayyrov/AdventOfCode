@@ -7,7 +7,7 @@ Site: https://adventofcode.com/2021/day/1
 
 import sys
 
-file1 = open('../input_files/day1_input1.txt', 'r')
+file1 = open('../input_files/day1_input', 'r')
 
 ans = 0
 nums = list(map(int, file1.readlines()))
