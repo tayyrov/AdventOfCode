@@ -4,7 +4,7 @@
 
 
 ## Advent of Code:
-[Advent of Code](http://adventofcode.com) is collection of programming puzzles prepared by [Eric Wastl](https://twitter.com/ericwastl) every year. One puzzle with several subtasks are relesed every day of December. 
+[Advent of Code](http://adventofcode.com) is collection of programming puzzles prepared by [Eric Wastl](https://twitter.com/ericwastl) every year. One puzzle with several subtasks are released every day of December. 
 
 ## Language:
 Python 3.6.9
