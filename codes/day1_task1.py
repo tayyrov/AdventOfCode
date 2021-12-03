@@ -19,4 +19,3 @@ for i in range(1, ln):
 
 
 print(ans)
-

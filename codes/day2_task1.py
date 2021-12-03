@@ -7,10 +7,9 @@ Site: https://adventofcode.com/2021/day/2
 
 import sys
 
-inputfile = open('../input_files/input2', 'r')
+inputfile = open('../input_files/day2_input', 'r')
 
 lines = inputfile.readlines()
-print(lines)
 position = 0
 depth = 0
 for line in lines:
@@ -23,7 +22,7 @@ for line in lines:
     elif command == "up":
         depth -= int_step
     else:
-	# This code should never get executed if the input is valid
+    # This code should never get executed if the input is valid
         print("Unexpected input")
 final_ans = position * depth
 print(f"The multiplication of depth which is {depth} and position which is {position} is {final_ans}. ")
