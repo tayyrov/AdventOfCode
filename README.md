@@ -11,9 +11,9 @@ Python 3.6.9
 
 ## Progress so far
 
-| Days | Status |        | Days | Status |       
-| --- | --- |		 | -----|--------|
-| 1 | Completed |        |11|Completed|
+| Days | Status |               
+| --- | --- |		 
+| 1 | Completed |
 | 2 | Completed |
 | 3 | Completed |
 | 4 | Completed |
@@ -23,3 +23,4 @@ Python 3.6.9
 | 8 | Completed |
 | 9 | Completed |
 | 10| Completed |
+| 11| Completed |
