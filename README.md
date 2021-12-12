@@ -11,16 +11,17 @@ Python 3.6.9
 
 ## Progress so far
 
-| Days | Status |               
-| --- | --- |		 
-| 1 | Completed |
-| 2 | Completed |
-| 3 | Completed |
-| 4 | Completed |
-| 5 | Completed |
-| 6 | Completed |
-| 7 | Completed |
-| 8 | Completed |
-| 9 | Completed |
-| 10| Completed |
-| 11| Completed |
+| Days | Status |Related Topics|               
+| --- | --- |-------|		 
+| 1 | Completed ||
+| 2 | Completed ||
+| 3 | Completed ||
+| 4 | Completed ||
+| 5 | Completed ||
+| 6 | Completed ||
+| 7 | Completed ||
+| 8 | Completed ||
+| 9 | Completed ||
+| 10| Completed ||
+| 11| Completed ||
+| 12| Completed | Graphs, DFS|
