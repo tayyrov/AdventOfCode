@@ -25,3 +25,4 @@ Python 3.6.9
 | 10| Completed ||
 | 11| Completed ||
 | 12| Completed | Graphs, DFS|
+| 13| Completed |Matrix manipulation, optimization|
