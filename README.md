@@ -28,3 +28,4 @@ Python 3.6.9
 | 13| Completed |Matrix manipulation, optimization|
 | 14| Completed | Hash map|
 |15| Completed |Graph, Dijkstra|
+|16| Pending..||
