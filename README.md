@@ -29,3 +29,4 @@ Python 3.6.9
 | 14| Completed | Hash map|
 |15| Completed |Graph, Dijkstra|
 |16| Pending..||
+|17| Complted |Geometry, Stimulation|
