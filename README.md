@@ -1,5 +1,8 @@
 # Advent of Code - 2021
 
+:santa: :christmas_tree: :santa: :christmas_tree: :santa: :christmas_tree:
+
+
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -13,20 +16,20 @@ Python 3.6.9
 
 | Days | Status |Related Topics|               
 | --- | --- |-------|		 
-| 1 | Completed ||
-| 2 | Completed ||
-| 3 | Completed ||
-| 4 | Completed ||
-| 5 | Completed ||
-| 6 | Completed ||
-| 7 | Completed ||
-| 8 | Completed ||
-| 9 | Completed ||
-| 10| Completed ||
-| 11| Completed ||
-| 12| Completed | Graphs, DFS|
-| 13| Completed |Matrix manipulation, optimization|
-| 14| Completed | Hash map|
-|15| Completed |Graph, Dijkstra|
+| 1 | :heavy_check_mark: ||
+| 2 | :heavy_check_mark: ||
+| 3 | :heavy_check_mark: ||
+| 4 | :heavy_check_mark: ||
+| 5 | :heavy_check_mark: ||
+| 6 | :heavy_check_mark: ||
+| 7 | :heavy_check_mark: ||
+| 8 | :heavy_check_mark: ||
+| 9 | :heavy_check_mark: ||
+| 10| :heavy_check_mark: ||
+| 11| :heavy_check_mark: ||
+| 12| :heavy_check_mark: | Graphs, DFS|
+| 13| :heavy_check_mark: |Matrix manipulation, optimization|
+| 14| :heavy_check_mark: | Hash map|
+|15| :heavy_check_mark: |Graph, Dijkstra|
 |16| Pending..||
-|17| Complted |Geometry, Stimulation|
+|17| :heavy_check_mark: |Geometry, Stimulation|
